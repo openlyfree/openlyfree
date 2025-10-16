@@ -1,6 +1,6 @@
 # Hi, I'm Ethan
 
-Backend-leaning developer. Learning cybersecurity. Linux enjoyer (I use Arch, btw). Always learning.
+Backend-leaning developer. Linux enjoyer. Always learning.
 
 Tech: Python • Java • Go (learning) • HTML/CSS  
 Interests: Backend • Linux • Game Dev • Security
