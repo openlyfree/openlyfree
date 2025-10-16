@@ -1,38 +1,8 @@
+# Hi, I'm Ethan
 
-## Hi, I'm Ethan
+Backend-leaning developer. Learning cybersecurity. Linux enjoyer (I use Arch, btw). Always learning.
 
----
+Tech: Python • Java • Go (learning) • HTML/CSS  
+Interests: Backend • Linux • Game Dev • Security
 
-## Languages I know
-
--  **Python**
--  **Java ❤️**
--  **Go** (kinda)
--  **HTML**
--  **CSS**
-
----
-
-## I like
-- Backend
-- Learning Cybersecurity
-- Linux
-- Game Dev
-
----
-
-## Learning Goals
-- Get better at Go and Python
-- Learn the basics of cybersecurity and ethical hacking
-- Build something I'm proud of!
-
-
-> I'm kinda bad at coding but I'm trying to get better.  
-
----
-
-## 📁 Check out my repositories!
-> I’m not usually working on something new cus I don't rly have much time.
-
-But maybe you’ll find something interesting!
-
+Browse my [repositories](https://github.com/openlyfree?tab=repositories).
