@@ -37,6 +37,7 @@ while (sleep_deprived) {
 - built a bakery website for some random local company in cshs. [RavensSweetHaven](https://github.com/openlyfree/RavensSweetHaven). the styling is bad and i said so in the readme
 - my build system is called jild. java + build = jild. ba dum ts. [jild](https://github.com/openlyfree/jild). this is how all things should be named
 - used github as a backend. [MergeMaterial](https://github.com/openlyfree/MergeMaterial). actions runs a cron job, commits json to the repo, github pages serves it. no database. no server. just vibes and version control
+- once made an entire compiler and transpiler for a stupid pun. [c_blunt](https://github.com/openlyfree/c_blunt) worth it
 
 ## the lion does not concern himself with
 
