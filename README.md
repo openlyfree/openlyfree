@@ -43,7 +43,7 @@ professional yapper. amateur programmer. serial ghidra tomfoolerer.
 
 ---
 
-also did a software eng internship at skipcourse (may–aug 2026). agentic ai + full-stack. owned both rails of an assessment pipeline. then came home and wrote kernel code instead of touching grass.
+also did a software eng internship at skipcourse (may–aug 2026). agentic ai + full-stack. then came home and wrote kernel code instead of touching grass.
 
 if you're reading this you probably clicked through from one of my repos wondering "who made this"
 
