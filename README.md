@@ -2,14 +2,6 @@
 
 professional yapper. amateur programmer. serial ghidra tomfoolerer.
 
-
-```
-while (sleep_deprived) {
-  new_project();
-  abandon(old_project);
-}
-```
-
 ## the greatest hits (debatable)
 
 | thing | what happened |
