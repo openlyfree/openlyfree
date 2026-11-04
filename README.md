@@ -2,6 +2,8 @@
 
 professional yapper. amateur programmer. serial ghidra tomfoolerer.
 
+i make things that probably shouldn’t exist
+
 ## the greatest hits (debatable)
 
 | thing | what happened |
