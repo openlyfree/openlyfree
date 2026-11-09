@@ -8,7 +8,7 @@ i make things that probably shouldn’t exist
 
 | thing | what happened |
 |-------|---------------|
-| [acer-aspire14-ec]([https://git.kernel.org/pub/scm/linux/kernel/git/groeck/linux-staging.git/commit/?h=hwmon-next&id=8393cb61e11b](https://patchwork.kernel.org/project/linux-hwmon/patch/20261031174651.856627-1-duhxu0@gmail.com/)) | wrote a linux hwmon driver. expected 7.5. not mainline yet. . fan rpm only. i do not control your fans. yet. |
+| [acer-aspire14-ec](https://git.kernel.org/pub/scm/linux/kernel/git/groeck/linux-staging.git/commit/?h=hwmon-next&id=8393cb61e11b)| wrote a linux hwmon driver. expected 7.5. not mainline yet. . fan rpm only. i do not control your fans. yet. |
 | [unacer](https://github.com/openlyfree/unacer) | reverse-engineered acer sense → rust cli for silent/normal/performance on the aspire 14. this is how the kernel thing happened |
 | [desmosinator](https://github.com/openlyfree/desmosinator) | made desmos play midi. graphing calculator → daw pipeline. |
 | [dappendble](https://github.com/openlyfree/dappendble) | wrote a database. it's fast because the index lives in ram. that's a feature |
